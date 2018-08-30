@@ -1,3 +1,3 @@
 # sample-apps-react-native-android
 
-Test. 
+Testing some more. 
